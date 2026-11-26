@@ -1143,6 +1143,7 @@ function main(params) {
             ]
             : []),
 
+        // 指定域名直连
         "DOMAIN-SUFFIX,snssdk.com,DIRECT",
         "DOMAIN-SUFFIX,bdurl.net,DIRECT",
 
